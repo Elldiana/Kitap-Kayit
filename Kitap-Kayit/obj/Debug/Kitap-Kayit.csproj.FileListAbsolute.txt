@@ -1,0 +1,9 @@
+C:\Users\LENOVO\Desktop\Kitap-Kayit\Kitap-Kayit\bin\Debug\Kitap-Kayit.exe.config
+C:\Users\LENOVO\Desktop\Kitap-Kayit\Kitap-Kayit\bin\Debug\Kitap-Kayit.exe
+C:\Users\LENOVO\Desktop\Kitap-Kayit\Kitap-Kayit\bin\Debug\Kitap-Kayit.pdb
+C:\Users\LENOVO\Desktop\Kitap-Kayit\Kitap-Kayit\obj\Debug\Kitap-Kayit.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Kitap-Kayit\Kitap-Kayit\obj\Debug\Kitap_Kayit.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\Kitap-Kayit\Kitap-Kayit\obj\Debug\Kitap-Kayit.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\Kitap-Kayit\Kitap-Kayit\obj\Debug\Kitap-Kayit.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Kitap-Kayit\Kitap-Kayit\obj\Debug\Kitap-Kayit.exe
+C:\Users\LENOVO\Desktop\Kitap-Kayit\Kitap-Kayit\obj\Debug\Kitap-Kayit.pdb
